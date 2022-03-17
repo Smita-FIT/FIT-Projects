@@ -13,7 +13,7 @@ class Display extends StatefulWidget {
   @override
   State<Display> createState() => _DisplayState();
 }
-
+//Display method
 class _DisplayState extends State<Display> {
 
   ApiService serviceApi = ApiService();
